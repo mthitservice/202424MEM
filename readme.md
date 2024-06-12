@@ -28,3 +28,10 @@ Connect-Graph -TenantId "yourTenant GUID"
 ``` Script
 Get-Command -Module Microsoft.Graph.Intune  
 ```
+
+
+
+
+## Company Portal Installer
+
+ https://go.microsoft.com/fwlink/?linkid=853070 
