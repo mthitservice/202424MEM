@@ -1,5 +1,15 @@
 # Microsoft Endpoint Manager
 
+## 202424 PW26-2 - Michael Lindner
+
+## Links zur Vorbereitung einer Testumgebung Android
+
+1. Download Android Studio
+   
+   https://developer.android.com/studio?hl=de
+
+
+
 ## 202424 PW26-1 - Michael Lindner
 
 ### Powershell vorbereiten
