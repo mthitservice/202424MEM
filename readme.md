@@ -4,6 +4,9 @@ Kursbewertung:
 
 [Kursbewertung](http://www.metricsthatmatter.com/pcware8)
 
+
+https://servicetrust.microsoft.com/Documents/ComplianceReports
+
 ## 202424 PW26-2 - Michael Lindner
 
 1. Links zur Vorbereitung einer Testumgebung Android
