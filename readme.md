@@ -1,5 +1,9 @@
 # Microsoft Endpoint Manager
 
+Kursbewertung:
+
+[Kursbewertung](http://www.metricsthatmatter.com/pcware8)
+
 ## 202424 PW26-2 - Michael Lindner
 
 1. Links zur Vorbereitung einer Testumgebung Android
