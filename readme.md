@@ -6,8 +6,11 @@
 
 1. Download Android Studio
    
-   https://developer.android.com/studio?hl=de
+   [Android Studio Download](https://developer.android.com/studio?hl=de)
 
+2. Übersicht aller Microsoftportale
+
+[Microsoft Portal Links](https://cmd.ms)
 
 
 ## 202424 PW26-1 - Michael Lindner
