@@ -2,16 +2,11 @@
 
 ## 202424 PW26-2 - Michael Lindner
 
-## Links zur Vorbereitung einer Testumgebung Android
+1. Links zur Vorbereitung einer Testumgebung Android
 
-1. Download Android Studio
-   
-   [Android Studio Download](https://developer.android.com/studio?hl=de)
+- [Android Studio Download](https://developer.android.com/studio?hl=de)
 
-2. Übersicht aller Microsoftportale
-
-[Microsoft Portal Links](https://cmd.ms)
-
+- [Microsoft Portal Links](https://cmd.ms)
 
 ## 202424 PW26-1 - Michael Lindner
 
