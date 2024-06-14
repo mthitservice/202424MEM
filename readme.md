@@ -7,6 +7,8 @@
 - [Android Studio Download](https://developer.android.com/studio?hl=de)
 
 - [Microsoft Portal Links](https://cmd.ms)
+- [SSO IOS] (https://learn.microsoft.com/de-de/mem/intune/enrollment/set-up-just-in-time-registration)
+
 
 ## 202424 PW26-1 - Michael Lindner
 
