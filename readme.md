@@ -1,8 +1,6 @@
 # Microsoft Endpoint Manager
 
-Kursbewertung:
 
-[Kursbewertung](http://www.metricsthatmatter.com/pcware8)
 
 
 https://servicetrust.microsoft.com/Documents/ComplianceReports
